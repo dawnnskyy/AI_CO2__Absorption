@@ -1,5 +1,11 @@
 # AI_CO2__Absorption
 AI-powered CO₂ absorption monitoring &amp; optimization system.
+# 🌍 AI-Powered CO2 Absorption System  
+
+🚀 **LIVE DEMO:** [Click Here to View the Working Prototype](https://aico2absorption-dmgxu6luwyg7t7drki9ot7.streamlit.app/)  
+
+📌 **Note:** This project uses AI-driven analysis for real-time CO₂ monitoring and absorption tracking. Scroll down for installation, features, and more details.
+
 # AI-Powered CO₂ Absorption & Monitoring 🚀
 
 This project focuses on **AI-driven CO₂ absorption technology** to help reduce carbon emissions at ports like Mumbai. It uses **machine learning, real-time sensors, and a Flask-based web dashboard** to monitor CO₂ levels and optimize absorption efficiency.
