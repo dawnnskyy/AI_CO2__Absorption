@@ -1,5 +1,3 @@
-# AI_CO2__Absorption
-AI-powered CO₂ absorption monitoring &amp; optimization system.
 # 🌍 AI-Powered CO2 Absorption System  
 
 🚀 **LIVE DEMO:** [Click Here to View the Working Prototype](https://aico2absorption-dmgxu6luwyg7t7drki9ot7.streamlit.app/)  
